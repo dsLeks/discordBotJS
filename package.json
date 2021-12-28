@@ -1,0 +1,27 @@
+{
+    "name": "CSC675agandu1Bot-JS",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "@discordjs/builders": "^0.8.2",
+      "@discordjs/rest": "0.1.0-canary.0",
+      "database": "0.0.2",
+      "database.js": "0.0.1",
+      "discord-api-types": "^0.25.0",
+      "discord.js": "^13.3.1",
+      "express": "^4.17.1",
+      "mysql": "^2.18.1",
+      "node": "^16.13.0",
+      "prettytable": "^0.3.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
